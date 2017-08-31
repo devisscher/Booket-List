@@ -1,9 +1,11 @@
 [{
 	"id": 1,
 	"title":"Python Data Science Handbook",
+	"author":"Jake VanderPlas"
 	"link":"https://jakevdp.github.io/PythonDataScienceHandbook/"
 },{
 	"id": 2,
 	"title":"War and Peace",
+	"author":"Leo Tolstoï"
 	"link":"https://jakevdp.github.io/PythonDataScienceHandbook/"
 }]
