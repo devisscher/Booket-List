@@ -6,11 +6,6 @@
 },{
 	"id": 2,
 	"title":"War and Peace",
-	"author":"Leo Tolstoï",
-	"link":"https://jakevdp.github.io/PythonDataScienceHandbook/"
-},{
-	"id": 3,
-	"title":"War and Peace",
-	"author":"Leo Tolstoï",
-	"link":"https://jakevdp.github.io/PythonDataScienceHandbook/"
+	"author":"Leo Tolstoy",
+	"link":"http://www.gutenberg.org/files/2600/2600-h/2600-h.htm"
 }]
