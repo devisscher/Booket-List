@@ -8,4 +8,9 @@
 	"title":"War and Peace",
 	"author":"Leo Tolstoy",
 	"link":"http://www.gutenberg.org/files/2600/2600-h/2600-h.htm"
+},{
+	"id": 3,
+	"title":"JavaScript: The Good Parts",
+	"author":"Douglas Crockford",
+	"link":"http://shop.oreilly.com/product/9780596517748.do"
 }]
