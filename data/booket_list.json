@@ -23,4 +23,15 @@
 	"title":"Ghost in the Wires: My Adventures as the World's Most Wanted Hacker",
 	"author":"Kevin Mitnick",
 	"link":"https://www.amazon.ca/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037729"
-}]
+},{
+	"id": 6,
+	"title":"Google SRE book",
+	"author":"Google",
+	"link":"https://landing.google.com/sre/book/"
+},{
+	"id": 7,
+	"title":"Phishing for Phools: The Economics of Manipulation and Deception",
+	"author":"George A. Akerlof & Robert J. Shiller",
+	"link":"https://www.amazon.ca/Phishing-Phools-Economics-Manipulation-Deception/dp/1522635009"
+}
+]
