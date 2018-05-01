@@ -1,3 +1,1 @@
-# My Booket List
-
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+# Books I've read or want to read.
