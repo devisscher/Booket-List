@@ -38,4 +38,29 @@
 	"title":"The moon is a harsh mistress",
 	"author":"Robert A. Heinlein",
 	"link":"https://www.amazon.ca/Moon-Harsh-Mistress-Robert-Heinlein/dp/0312863551"
+},{
+	"id": 9,
+	"title":"12 Rules for Life: An Antidote to Chaos",
+	"author":"Jordan Peterson",
+	"link":"https://jordanbpeterson.com/12-rules-for-life/"
+},{
+	"id": 10,
+	"title":"Crime and Punishment",
+	"author":"Fyodor Dostoevsky",
+	"link":"https://en.wikipedia.org/wiki/Crime_and_Punishment"
+},{
+	"id": 11,
+	"title":"Paradise Lost",
+	"author":"John Milton",
+	"link":"https://en.wikipedia.org/wiki/Paradise_Lost"
+},{
+	"id": 12,
+	"title":"Inferno",
+	"author":"Dante Alighieri",
+	"link":"https://en.wikipedia.org/wiki/Inferno_(Dante)"
+},{
+	"id": 13,
+	"title":"Notes from underground",
+	"author":"Fyodor Dostoevsky",
+	"link":"https://en.wikipedia.org/wiki/Notes_from_Underground"
 }]
